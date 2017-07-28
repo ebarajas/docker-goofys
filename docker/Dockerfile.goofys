@@ -1,9 +1,6 @@
 ##############################################################################
-# template:     Dockerfile.template                                          #
-# author:       james.hicks@pega.com                                         #
-# description:  Dockerfile template that can be used as a starting point     #
-#               for creating an installer container for various              #
-#               Pega Cloud AMI Components                                    #
+# file:     Dockerfile.goofys                                                #
+# author:       colewhit29@gmail.com                                         # #                                                                            #
 # version:      0.0.1                                                        #
 # date:         2017.07.12                                                   #
 ##############################################################################
